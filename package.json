@@ -1,0 +1,10 @@
+{
+  "name": "type-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PracticeEveryday <developerforus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.4.4"
+  }
+}
