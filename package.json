@@ -5,6 +5,7 @@
   "author": "PracticeEveryday <developerforus@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
     "typescript": "^5.4.4"
   }
 }
